@@ -5,3 +5,4 @@ CFI’s Business Intelligence & Data Analyst (BIDA) Certification Program will t
 
 
 <img width="500" alt="Снимок экрана 2022-09-30 в 20 42 24" src="https://user-images.githubusercontent.com/103367293/193377354-8ed26b7e-c72c-4716-8e34-f0418716d20b.png">
+
